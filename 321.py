@@ -1,2 +1,2 @@
-import numpy as np
-dasd
+import ndsas np
+dasdsd
