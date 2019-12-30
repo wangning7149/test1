@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<dsadasdasdasdasDas 大撒大< HEAD
 import fds numpy as np
 davds
 =======
